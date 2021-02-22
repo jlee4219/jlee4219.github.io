@@ -3,7 +3,7 @@ function Writing(props) {
         <section className="Writing-section">
             <p>
                Jefferson has taken classes through The Writer's Studio, Tin House, and Kundiman, and has read as part of San Francisco's LitCrawl.
-               He is primarily interested in short fiction, the shapes of narratives, and the blurring of genres.
+               He is primarily interested in short fiction.
             </p>
             <h3>Reviews</h3>
             <ul>

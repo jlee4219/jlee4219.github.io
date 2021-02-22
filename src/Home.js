@@ -5,7 +5,7 @@ function Home(props) {
         <section className="Home-section">
             <img src={`${process.env.PUBLIC_URL}/sol-lewitt.png`} className="Home-photo" alt="Photo of Jefferson Lee at SF MOMA" />
             <p className="Home-content">
-               Jefferson is a software engineer, writer, and artist. He thinks
+               Jefferson is a software engineer, writer, and artist. He spends time thinking
                about narrative, identity, memory, scale, and place,
                as well as their various intersections. He studied computer science and mathematics at Harvard, and
                has worked as a backend engineer at Airbnb and Addepar.
